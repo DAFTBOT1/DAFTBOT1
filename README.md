@@ -4,7 +4,7 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 </h1>
 
 
-<!-- <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <a href="https://github.com/adilrahman/"> </a> 
+<!-- <img src="https://avatars.githubusercontent.com/u/82068460?s=400&u=b420b6e41385a8d18ccabb8085ccb8da94391516&v=4" alt="Profile views" align='right'/> <a href="https://github.com/DAFTBOT1/"> </a> 
 <br/> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
