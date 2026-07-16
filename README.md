@@ -53,9 +53,6 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 <tr>
  
   <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
-  <td> 
-  <h3 align="center"> 📊  STATS </h3>
-  </td>
  
  </tr>
  <tr>
