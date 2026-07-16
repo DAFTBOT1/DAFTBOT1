@@ -20,7 +20,7 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 
-<img align="left" src="https//avatars.githubusercontent.com/u/82068460?s=400&u=b420b6e41385a8d18ccabb8085ccb8da94391516&v=4" width="265" height="270" />
+<img align="left" src="https://64.media.tumblr.com/454e1bc8ce461a964926f2717ea29f2f/tumblr_ne8aqbNcNq1ql41ypo2_500.gifv" width="265" height="270" />
 
 
 <!---- <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <i><small>About me</small></i> --->
