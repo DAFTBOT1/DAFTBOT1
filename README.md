@@ -97,7 +97,7 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-!![Arch Linux](https://shields.io)&nbsp;
+![Arch Linux](https://shields.io)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)
