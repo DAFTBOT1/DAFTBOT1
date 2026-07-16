@@ -86,10 +86,6 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
 ---
-#### Mobile Application Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
----
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
