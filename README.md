@@ -96,7 +96,6 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
     
 </td>
-    <td>    
  
 <br>
 <div align="center">
