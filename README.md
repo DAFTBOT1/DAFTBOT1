@@ -52,12 +52,8 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 <table width="100%" >
 <tr>
  
-  <td> <h3 align="center"> :zap: SKILLS </h3>   </td>
+ <h3 align="center"> :zap: SKILLS </h3>  
  
- </tr>
- <tr>
-    <td width="55%">
-     
  
 
 #### Lanuages 
