@@ -107,7 +107,7 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
  <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/"  >connect with me</a><br><br>
-<a href="https://t.me/NekoSatoru/" target="_blank"><<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> 
+<a href="https://t.me/NekoSatoru/" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> 
 
 </p>
 </div>
