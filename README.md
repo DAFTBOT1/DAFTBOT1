@@ -99,11 +99,6 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
     
 </td>
  
-<br>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
-
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
  <a href="https://t.me/NekoSatoru/"  >connect with me</a><br><br>
