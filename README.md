@@ -41,7 +41,7 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 > Committed to lifelong learning 💖
 ```
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />  <img src="https://gpvc.arturio.dev/adilrahman" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" /> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />  <a href="https://github.com/adilrahman/">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 </br>
