@@ -103,26 +103,8 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
     
 </td>
-    <td>
-
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adilrahman&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
- </br>
-  </br>
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=adilrahman&theme=darcula&hide_border=true&background=FFFFFF00">
- </br> </br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adilrahman&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
-</p>
-     
-  </td>
- </tr>
-</table>
-<br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adilrahman&theme=react-dark&hide_border=true&area=true)
-
-
+    <td>    
+ 
 <br>
 <div align="center">
 <br>
