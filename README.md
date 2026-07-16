@@ -1,4 +1,7 @@
-## Hi there 👋
+## HELLO!! IM MR BELT!
+![MR.BELT](https://64.media.tumblr.com/454e1bc8ce461a964926f2717ea29f2f/tumblr_ne8aqbNcNq1ql41ypo2_500.gifv)
+
+
 
 <!--
 **DAFTBOT1/DAFTBOT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
