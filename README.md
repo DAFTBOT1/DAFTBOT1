@@ -98,7 +98,11 @@ Hi, I'm <a href="https://github.com/DAFTBOT1"> MR.BELT </a>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
     
 </td>
- 
+
+ <br>
+<div align="center">
+<br>
+
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
  <a href="https://t.me/NekoSatoru/"  >connect with me</a><br><br>
